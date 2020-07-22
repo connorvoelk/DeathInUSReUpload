@@ -1,0 +1,12 @@
+name: death-in-us
+title: death-in-us
+username:
+account: yanzheong
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 967609
+bundleId: 2133635
+url: https://yanzheong.shinyapps.io/death-in-us/
+when: 1559763712.27929
+asMultiple: FALSE
+asStatic: FALSE
